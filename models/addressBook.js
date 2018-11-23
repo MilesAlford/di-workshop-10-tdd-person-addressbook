@@ -6,5 +6,9 @@ constructor(){
 add(person) {
     this.entries.push(person)
 }
+
+findByFirstName() {
+    
+}
 }
 module.exports = AddressBook
